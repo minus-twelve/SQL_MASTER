@@ -1,2 +1,0 @@
-DBCC CHECKIDENT ('[].[].[]', NORESEED);
-

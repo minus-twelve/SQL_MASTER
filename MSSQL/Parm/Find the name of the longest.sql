@@ -1,0 +1,4 @@
+SELECT TOP 1 WITH TIES *
+FROM [FNLParm].[dbo].[DT_Item]
+WHERE IName LIKE '%+13%'
+ORDER BY LEN(IName) DESC;

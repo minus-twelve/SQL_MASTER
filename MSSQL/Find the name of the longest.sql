@@ -1,4 +1,0 @@
-SELECT TOP 1 WITH TIES *
-FROM [].[].[]
-WHERE Столбец LIKE ''
-ORDER BY LEN(IName) DESC;
